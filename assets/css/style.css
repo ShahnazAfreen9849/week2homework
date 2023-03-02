@@ -1,0 +1,33 @@
+eader {
+    width: 100%;
+    background-color: lightblue;
+  }
+  
+  h2 {
+    text-align: left;
+  }
+  
+  ul {
+    text-align: right;
+    color: #ffffff;
+  }
+
+  li {
+    
+    display: inline;
+    list-style-type: none;
+    font-size: 40px;
+  }
+  
+  #item-1 {
+    background-color: #e0115f;
+  }
+  
+  #item-2 {
+    background-color: #0000ff;
+  }
+  
+  #item-3 {
+    background-color: #999900;
+  }
+  
